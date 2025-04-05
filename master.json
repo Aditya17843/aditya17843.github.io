@@ -1,6 +1,7 @@
+
 {
-  "sha": "4bcc1d0b91914fe3d0e98547fbf6bb9355e56950",
-  "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/4bcc1d0b91914fe3d0e98547fbf6bb9355e56950",
+  "sha": "c0b03b95a52e558b9f1b51eb3cfcd4c150476a30",
+  "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/c0b03b95a52e558b9f1b51eb3cfcd4c150476a30",
   "tree": [
     {
       "path": "Aditya Tiwari.pdf",
@@ -22,9 +23,9 @@
       "path": "README.md",
       "mode": "100644",
       "type": "blob",
-      "sha": "346da69c2d814942748d3de93b493e1c52bc2711",
-      "size": 1498,
-      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/346da69c2d814942748d3de93b493e1c52bc2711"
+      "sha": "c3727d7bd54f6b50d80a7e600071aa3398773e93",
+      "size": 1333,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/c3727d7bd54f6b50d80a7e600071aa3398773e93"
     },
     {
       "path": "_config.yml",
@@ -93,8 +94,8 @@
       "path": "images",
       "mode": "040000",
       "type": "tree",
-      "sha": "b8c7a93d88da5063c0692e63b45ba2c64dc3863a",
-      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/b8c7a93d88da5063c0692e63b45ba2c64dc3863a"
+      "sha": "657325bf212a36294268dc1dc71297d5e2cca35c",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/657325bf212a36294268dc1dc71297d5e2cca35c"
     },
     {
       "path": "images/avenger.png",
@@ -185,6 +186,22 @@
       "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/3cbd05cb62fb6db38c69a8e4a1869ebed2e9c6b0"
     },
     {
+      "path": "images/sgtu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee18e1e05b57b2c4454653906271f815afb88d6f",
+      "size": 166909,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/ee18e1e05b57b2c4454653906271f815afb88d6f"
+    },
+    {
+      "path": "images/spicetech.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd51c39228b357fbcc0eddb27d1280a71dddae7e",
+      "size": 81871,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/bd51c39228b357fbcc0eddb27d1280a71dddae7e"
+    },
+    {
       "path": "images/sql_advanced.png",
       "mode": "100644",
       "type": "blob",
@@ -212,9 +229,9 @@
       "path": "index.html",
       "mode": "100644",
       "type": "blob",
-      "sha": "01d796101f0778d95c83f9ed537e23f827e70ad9",
-      "size": 32012,
-      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/01d796101f0778d95c83f9ed537e23f827e70ad9"
+      "sha": "fce76707772b2d0033612c0fa8393ece6306f2fd",
+      "size": 32619,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/fce76707772b2d0033612c0fa8393ece6306f2fd"
     },
     {
       "path": "js",
@@ -568,6 +585,30 @@
       "sha": "2308b14ca7c27e6ea02f874e9ab7456032a7d007",
       "size": 430,
       "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/2308b14ca7c27e6ea02f874e9ab7456032a7d007"
+    },
+    {
+      "path": "master.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5acbf7d61afe2e5df33a970b3b07487e7574aafa",
+      "size": 22988,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/5acbf7d61afe2e5df33a970b3b07487e7574aafa"
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1438014b8d1d711f474a179c41823f5debda0e87",
+      "size": 160715,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/1438014b8d1d711f474a179c41823f5debda0e87"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "033e2f033911dc1388cee46244000a997014c8e0",
+      "size": 535,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/033e2f033911dc1388cee46244000a997014c8e0"
     },
     {
       "path": "scss",
