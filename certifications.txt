@@ -1,0 +1,7 @@
+CSS (Basic) | https://www.hackerrank.com/certificates/3361c161f87d | images/css_basic.png
+JavaScript (Basic) | https://www.hackerrank.com/certificates/a071c2cc0eb9 | images/java_basic.png
+JavaScript (Intermediate) | https://www.hackerrank.com/certificates/dc766ed7b9aa | images/javascript_basic.png
+SQL (Basic) | https://www.hackerrank.com/certificates/f9ee3ba51e36 | images/sql_basic.png
+SQL (Intermediate) | https://www.hackerrank.com/certificates/a485bc2d0617 | images/sql_intermediate.png
+SQL (Advanced) | https://www.hackerrank.com/certificates/392ba04edeb5 | images/sql_advanced.png
+Python (Basic) | https://www.hackerrank.com/certificates/146a1a3ad323 | images/python_basic.png"

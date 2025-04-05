@@ -1,0 +1,589 @@
+{
+  "sha": "4bcc1d0b91914fe3d0e98547fbf6bb9355e56950",
+  "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/4bcc1d0b91914fe3d0e98547fbf6bb9355e56950",
+  "tree": [
+    {
+      "path": "Aditya Tiwari.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41c56037926befa6e4c5dbace9b089f1bd66e60d",
+      "size": 636959,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/41c56037926befa6e4c5dbace9b089f1bd66e60d"
+    },
+    {
+      "path": "LICENSE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96f5cc5f702f1c59cd85759e7d71c9a3d8800885",
+      "size": 1072,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/96f5cc5f702f1c59cd85759e7d71c9a3d8800885"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "346da69c2d814942748d3de93b493e1c52bc2711",
+      "size": 1498,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/346da69c2d814942748d3de93b493e1c52bc2711"
+    },
+    {
+      "path": "_config.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3397c9a4928e1b41957484ee4e53e78da37224e8",
+      "size": 29,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/3397c9a4928e1b41957484ee4e53e78da37224e8"
+    },
+    {
+      "path": "certifications.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d43a80a721c777cf9092f88b31634ea07e82274",
+      "size": 685,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/0d43a80a721c777cf9092f88b31634ea07e82274"
+    },
+    {
+      "path": "css",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "55617aa9b4af594dd3f45968e1d8b798b1e2d1e9",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/55617aa9b4af594dd3f45968e1d8b798b1e2d1e9"
+    },
+    {
+      "path": "css/bootstrap.min.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4ecba9c82dbfde4c11821261b3b279bb6ab6124",
+      "size": 12728,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/b4ecba9c82dbfde4c11821261b3b279bb6ab6124"
+    },
+    {
+      "path": "css/styles.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb649cf0aa9e20eaaece770f91e5ec6b3d7de655",
+      "size": 10826,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/eb649cf0aa9e20eaaece770f91e5ec6b3d7de655"
+    },
+    {
+      "path": "experience.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00abf79e6d265cd0b75e85e5d1fed4f39b20d51f",
+      "size": 568,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/00abf79e6d265cd0b75e85e5d1fed4f39b20d51f"
+    },
+    {
+      "path": "favicon.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7323e696b428ecc0fe3d6019cadf07e56fbc154b",
+      "size": 1150,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/7323e696b428ecc0fe3d6019cadf07e56fbc154b"
+    },
+    {
+      "path": "gulpfile.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac40bf8cf6e9e7d4005be1eaebed8cc32acbf8d1",
+      "size": 1051,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/ac40bf8cf6e9e7d4005be1eaebed8cc32acbf8d1"
+    },
+    {
+      "path": "images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b8c7a93d88da5063c0692e63b45ba2c64dc3863a",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/b8c7a93d88da5063c0692e63b45ba2c64dc3863a"
+    },
+    {
+      "path": "images/avenger.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d06eebbee07c976f32e1465c7c079e09a6cd932",
+      "size": 50480,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/8d06eebbee07c976f32e1465c7c079e09a6cd932"
+    },
+    {
+      "path": "images/codeparser.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3356020975c513fd3bb88c5ed21b0fcdc9d71e7e",
+      "size": 14232,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/3356020975c513fd3bb88c5ed21b0fcdc9d71e7e"
+    },
+    {
+      "path": "images/covid19.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77536315b72cd58952666a205587977ccda586e7",
+      "size": 23464,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/77536315b72cd58952666a205587977ccda586e7"
+    },
+    {
+      "path": "images/css_basic.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a95db3ab43da6e4b25887786eb70157f0f780c8a",
+      "size": 278183,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/a95db3ab43da6e4b25887786eb70157f0f780c8a"
+    },
+    {
+      "path": "images/javascript_basic.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "209eb7776c0ded4c3064b07bb07f17cf38057774",
+      "size": 280044,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/209eb7776c0ded4c3064b07bb07f17cf38057774"
+    },
+    {
+      "path": "images/javascript_intermediate.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbfbeb207a5975712bc85b7100e7fd49d46f4981",
+      "size": 280231,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/cbfbeb207a5975712bc85b7100e7fd49d46f4981"
+    },
+    {
+      "path": "images/lead-bg.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "987075e1a9713dd0fc1a46b68749e47d7b226d2b",
+      "size": 48615,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/987075e1a9713dd0fc1a46b68749e47d7b226d2b"
+    },
+    {
+      "path": "images/me.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "490877b037e6dfe24d5d3648291420bd0c23101f",
+      "size": 35583,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/490877b037e6dfe24d5d3648291420bd0c23101f"
+    },
+    {
+      "path": "images/project.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9a5b6e8d2b77d03bfdf566ff5dba9ba07e36ad1",
+      "size": 17731,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/c9a5b6e8d2b77d03bfdf566ff5dba9ba07e36ad1"
+    },
+    {
+      "path": "images/python_basic.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "345be0bff1687f1c6344220792c9f355652fe650",
+      "size": 278697,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/345be0bff1687f1c6344220792c9f355652fe650"
+    },
+    {
+      "path": "images/sfchromeext.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cbd05cb62fb6db38c69a8e4a1869ebed2e9c6b0",
+      "size": 60887,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/3cbd05cb62fb6db38c69a8e4a1869ebed2e9c6b0"
+    },
+    {
+      "path": "images/sql_advanced.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53e5e1c001fb1a8006a1380cdee9a7d6dd35bbab",
+      "size": 278611,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/53e5e1c001fb1a8006a1380cdee9a7d6dd35bbab"
+    },
+    {
+      "path": "images/sql_basic.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a036a16706a18a2b1fe011143a2ea5a5e257ad4",
+      "size": 277897,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/9a036a16706a18a2b1fe011143a2ea5a5e257ad4"
+    },
+    {
+      "path": "images/sql_intermediate.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbf58ded0637641066a61dcba4bdbee845a12292",
+      "size": 279517,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/cbf58ded0637641066a61dcba4bdbee845a12292"
+    },
+    {
+      "path": "index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01d796101f0778d95c83f9ed537e23f827e70ad9",
+      "size": 32012,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/01d796101f0778d95c83f9ed537e23f827e70ad9"
+    },
+    {
+      "path": "js",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c8224d6575f9be25f4fdebe92443fa42a1bc69b3",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/c8224d6575f9be25f4fdebe92443fa42a1bc69b3"
+    },
+    {
+      "path": "js/scripts.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a493afb9134c293f1c40268682206ec15bbb741b",
+      "size": 2877,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/a493afb9134c293f1c40268682206ec15bbb741b"
+    },
+    {
+      "path": "js/scripts.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c36c4c2f7060cc3ceb4aece5fcb6e46ad786dbdd",
+      "size": 1737,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/c36c4c2f7060cc3ceb4aece5fcb6e46ad786dbdd"
+    },
+    {
+      "path": "libs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5fa39c5ce07ed42f683792f19dcac4bbdc602138",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/5fa39c5ce07ed42f683792f19dcac4bbdc602138"
+    },
+    {
+      "path": "libs/font-awesome",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2fa573766ef57bdaf2265212afc98b1d00172796",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/2fa573766ef57bdaf2265212afc98b1d00172796"
+    },
+    {
+      "path": "libs/font-awesome/css",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0881c1324fa2a3d36bee451c3897c740c0a79c7a",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/0881c1324fa2a3d36bee451c3897c740c0a79c7a"
+    },
+    {
+      "path": "libs/font-awesome/css/font-awesome.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0b879fa0006d7ad46c994024196228753d678b3",
+      "size": 35134,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/a0b879fa0006d7ad46c994024196228753d678b3"
+    },
+    {
+      "path": "libs/font-awesome/css/font-awesome.min.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b27f8ea8f8da544b622a801c4a47f73e3865929",
+      "size": 29063,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/9b27f8ea8f8da544b622a801c4a47f73e3865929"
+    },
+    {
+      "path": "libs/font-awesome/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "edc383b85ee8da903c2e7104646dcab8e09b7499",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/edc383b85ee8da903c2e7104646dcab8e09b7499"
+    },
+    {
+      "path": "libs/font-awesome/fonts/FontAwesome.otf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4de13e832d567ff29c5b4e9561b8c370348cc9c",
+      "size": 124988,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/d4de13e832d567ff29c5b4e9561b8c370348cc9c"
+    },
+    {
+      "path": "libs/font-awesome/fonts/fontawesome-webfont.eot",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7b00d2ba8896fd29de846b19f89fcf0d56ad152",
+      "size": 76518,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/c7b00d2ba8896fd29de846b19f89fcf0d56ad152"
+    },
+    {
+      "path": "libs/font-awesome/fonts/fontawesome-webfont.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b66187fe067c3aa389ce8c98108f349ceae159c",
+      "size": 391622,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/8b66187fe067c3aa389ce8c98108f349ceae159c"
+    },
+    {
+      "path": "libs/font-awesome/fonts/fontawesome-webfont.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f221e50a2ef60738ba30932d834530cdfe55cb3e",
+      "size": 152796,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/f221e50a2ef60738ba30932d834530cdfe55cb3e"
+    },
+    {
+      "path": "libs/font-awesome/fonts/fontawesome-webfont.woff",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e7483cf61b490c08ed644d6ef802c69472eb247",
+      "size": 90412,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/6e7483cf61b490c08ed644d6ef802c69472eb247"
+    },
+    {
+      "path": "libs/font-awesome/fonts/fontawesome-webfont.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7eb74fd127ee5eddf3b95fee6a20dc1684b0963b",
+      "size": 71896,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/7eb74fd127ee5eddf3b95fee6a20dc1684b0963b"
+    },
+    {
+      "path": "libs/font-awesome/less",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "95c7ec786c09e8755373faad1cbf3b4b875d9958",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/95c7ec786c09e8755373faad1cbf3b4b875d9958"
+    },
+    {
+      "path": "libs/font-awesome/less/animated.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66ad52a5ba052ced428dcc7ec7016bc25438a2ca",
+      "size": 713,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/66ad52a5ba052ced428dcc7ec7016bc25438a2ca"
+    },
+    {
+      "path": "libs/font-awesome/less/bordered-pulled.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1c8ad75f52bbc6c84a6dc3a341fe39e8d3edfd4",
+      "size": 585,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/f1c8ad75f52bbc6c84a6dc3a341fe39e8d3edfd4"
+    },
+    {
+      "path": "libs/font-awesome/less/core.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c577ac84a6a55ef39ff7f4e25d60c3977a902ed1",
+      "size": 452,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/c577ac84a6a55ef39ff7f4e25d60c3977a902ed1"
+    },
+    {
+      "path": "libs/font-awesome/less/fixed-width.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "110289f2f4b5260ce04dd035408961f1e4f2785b",
+      "size": 119,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/110289f2f4b5260ce04dd035408961f1e4f2785b"
+    },
+    {
+      "path": "libs/font-awesome/less/font-awesome.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c44e5f466a0de31751b647118a55dd563478815f",
+      "size": 495,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/c44e5f466a0de31751b647118a55dd563478815f"
+    },
+    {
+      "path": "libs/font-awesome/less/icons.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba21b222d6ff0e0f604d99acf34dca0ce2bd9066",
+      "size": 46249,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/ba21b222d6ff0e0f604d99acf34dca0ce2bd9066"
+    },
+    {
+      "path": "libs/font-awesome/less/larger.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9d646770e2186c73632cbe042d82d1d1acaa25b",
+      "size": 370,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/c9d646770e2186c73632cbe042d82d1d1acaa25b"
+    },
+    {
+      "path": "libs/font-awesome/less/list.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b440382f61f0bb1683e5b15c2a00e4e398f9980",
+      "size": 377,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/0b440382f61f0bb1683e5b15c2a00e4e398f9980"
+    },
+    {
+      "path": "libs/font-awesome/less/mixins.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "beef231d0e176a47375d93fb7365270eea52f7b4",
+      "size": 1603,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/beef231d0e176a47375d93fb7365270eea52f7b4"
+    },
+    {
+      "path": "libs/font-awesome/less/path.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "835be41f8151b6439f799be29ec7921af1b72593",
+      "size": 771,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/835be41f8151b6439f799be29ec7921af1b72593"
+    },
+    {
+      "path": "libs/font-awesome/less/rotated-flipped.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6ba81475b92355723f0dc12767f715995a34162",
+      "size": 622,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/f6ba81475b92355723f0dc12767f715995a34162"
+    },
+    {
+      "path": "libs/font-awesome/less/screen-reader.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11c188196d5ade55930b7b94fc5a1dd0f6d1a800",
+      "size": 118,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/11c188196d5ade55930b7b94fc5a1dd0f6d1a800"
+    },
+    {
+      "path": "libs/font-awesome/less/stacked.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc53fb0e7ab49594e1eac97208c32a290558efeb",
+      "size": 476,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/fc53fb0e7ab49594e1eac97208c32a290558efeb"
+    },
+    {
+      "path": "libs/font-awesome/less/variables.less",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b3381975e9e6ba8b0bf98ee86abf264ad158cb7",
+      "size": 20890,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/2b3381975e9e6ba8b0bf98ee86abf264ad158cb7"
+    },
+    {
+      "path": "libs/font-awesome/scss",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "830568b9351646be5befae3037dd92dd06d74666",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/830568b9351646be5befae3037dd92dd06d74666"
+    },
+    {
+      "path": "libs/font-awesome/scss/_animated.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a020dbfff7822bf57c7217eafdaa4884b8aa943",
+      "size": 715,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/8a020dbfff7822bf57c7217eafdaa4884b8aa943"
+    },
+    {
+      "path": "libs/font-awesome/scss/_bordered-pulled.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4b85a02f24adad8890ad69f7a1db6c7e3ec8a7d",
+      "size": 592,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/d4b85a02f24adad8890ad69f7a1db6c7e3ec8a7d"
+    },
+    {
+      "path": "libs/font-awesome/scss/_core.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7425ef85fc80ce6b035065906fc27490715e3733",
+      "size": 459,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/7425ef85fc80ce6b035065906fc27490715e3733"
+    },
+    {
+      "path": "libs/font-awesome/scss/_fixed-width.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b221c98133a4d4a8449c848ccb69bf631d1c3e5d",
+      "size": 120,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/b221c98133a4d4a8449c848ccb69bf631d1c3e5d"
+    },
+    {
+      "path": "libs/font-awesome/scss/_icons.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2944344350f3fab4741095812606ecb48be18fab",
+      "size": 46979,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/2944344350f3fab4741095812606ecb48be18fab"
+    },
+    {
+      "path": "libs/font-awesome/scss/_larger.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41e9a8184aa287c5970cc8415e3c5a6310dc9f79",
+      "size": 375,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/41e9a8184aa287c5970cc8415e3c5a6310dc9f79"
+    },
+    {
+      "path": "libs/font-awesome/scss/_list.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d1e4d54d6c293333eb638aa56feba7b62e15564",
+      "size": 378,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/7d1e4d54d6c293333eb638aa56feba7b62e15564"
+    },
+    {
+      "path": "libs/font-awesome/scss/_mixins.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3bbd5745d35bebda3e16ce18aeff7a4a0ce5ae1",
+      "size": 1637,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/c3bbd5745d35bebda3e16ce18aeff7a4a0ce5ae1"
+    },
+    {
+      "path": "libs/font-awesome/scss/_path.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb457c23a8e4e0688ebd9383e34ab9f2b3acecab",
+      "size": 783,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/bb457c23a8e4e0688ebd9383e34ab9f2b3acecab"
+    },
+    {
+      "path": "libs/font-awesome/scss/_rotated-flipped.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3558fd09ca7cb968166d5445f4df1a0bc2d5a7e",
+      "size": 672,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/a3558fd09ca7cb968166d5445f4df1a0bc2d5a7e"
+    },
+    {
+      "path": "libs/font-awesome/scss/_screen-reader.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "637426f0da6dcef3602d764d9e359dabb4a5a862",
+      "size": 134,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/637426f0da6dcef3602d764d9e359dabb4a5a862"
+    },
+    {
+      "path": "libs/font-awesome/scss/_stacked.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aef7403660c9a2ccc02a264c62c6b105f7d8d532",
+      "size": 482,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/aef7403660c9a2ccc02a264c62c6b105f7d8d532"
+    },
+    {
+      "path": "libs/font-awesome/scss/_variables.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5a89ef97bcfa214b44b81d0cdb488cca416420e",
+      "size": 20971,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/a5a89ef97bcfa214b44b81d0cdb488cca416420e"
+    },
+    {
+      "path": "libs/font-awesome/scss/font-awesome.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2308b14ca7c27e6ea02f874e9ab7456032a7d007",
+      "size": 430,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/2308b14ca7c27e6ea02f874e9ab7456032a7d007"
+    },
+    {
+      "path": "scss",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ac54bf2ed5adf9c85ab845e723f0946e8f0ba9db",
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/trees/ac54bf2ed5adf9c85ab845e723f0946e8f0ba9db"
+    },
+    {
+      "path": "scss/styles.scss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "952d0071d41a8a69e4a7f958931e01e1c7ca2af9",
+      "size": 17151,
+      "url": "https://api.github.com/repos/Aditya17843/aditya17843.github.io/git/blobs/952d0071d41a8a69e4a7f958931e01e1c7ca2af9"
+    }
+  ],
+  "truncated": false
+}
