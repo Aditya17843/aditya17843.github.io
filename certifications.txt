@@ -1,4 +1,5 @@
 Python (Basic) | https://www.hackerrank.com/certificates/146a1a3ad323 | images/python_basic.png"
+Java (Basic) | https://www.hackerrank.com/certificates/b2a8cb3c0084 | images/java_basic.png"
 SQL (Basic) | https://www.hackerrank.com/certificates/f9ee3ba51e36 | images/sql_basic.png
 SQL (Intermediate) | https://www.hackerrank.com/certificates/a485bc2d0617 | images/sql_intermediate.png
 SQL (Advanced) | https://www.hackerrank.com/certificates/392ba04edeb5 | images/sql_advanced.png
