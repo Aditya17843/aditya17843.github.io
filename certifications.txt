@@ -1,3 +1,4 @@
+Getting Started with AWS | https://simpli-web.app.link/e/L4cMdnsP65b | images/getting_started_with_aws.png
 Problem Solving (Intermediate) | https://www.hackerrank.com/certificates/eb3e4b5b3370 | images/problem_solving_intermediate.png"
 Problem Solving (Basic) | https://www.hackerrank.com/certificates/65161e24a9e7 | images/problem_solving_basic.png"
 Java (Basic) | https://www.hackerrank.com/certificates/b2a8cb3c0084 | images/java_basic.png"
@@ -8,4 +9,3 @@ SQL (Advanced) | https://www.hackerrank.com/certificates/392ba04edeb5 | images/s
 JavaScript (Basic) | https://www.hackerrank.com/certificates/a071c2cc0eb9 | images/javascript_basic.png
 JavaScript (Intermediate) | https://www.hackerrank.com/certificates/dc766ed7b9aa | images/javascript_basic.png
 CSS (Basic) | https://www.hackerrank.com/certificates/3361c161f87d | images/css_basic.png
-Getting Started with AWS | https://simpli-web.app.link/e/L4cMdnsP65b | images/getting_started_with_aws.png
