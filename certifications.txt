@@ -1,4 +1,4 @@
-Frontend Developer (React) |  | images/frontend_developer-react.png
+Frontend Developer (React) | https://www.hackerrank.com/certificates/d84762173348 | images/frontend_developer-react.png
 Getting Started with AWS | https://simpli-web.app.link/e/L4cMdnsP65b | images/getting_started_with_aws.png
 Problem Solving (Intermediate) | https://www.hackerrank.com/certificates/eb3e4b5b3370 | images/problem_solving_intermediate.png"
 Problem Solving (Basic) | https://www.hackerrank.com/certificates/65161e24a9e7 | images/problem_solving_basic.png"
